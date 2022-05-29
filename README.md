@@ -3,8 +3,8 @@
 ### knowlegde and to match up with the newly advancing technologies.
 
 ###  🔭 I’m aiming at becoming an expert in manipulating python libraries like [facebook](https://www.facebook.com/akashi.utchiha)P
-###     "OpenCV", "NumPy", "Django", "Flask", "Selenium" etc...
-###  🌱 I’m currently learning .Python,Flutter,Dart,Kotlin
+###     `OpenCV`, `NumPy`, `Django`, `Flask`, `Selenium` etc...
+###  🌱 I’m currently learning .`Python`,`Flutter`,`Dart`,`Django` and `JavaScript`
 - I'am Ndongmo Christian  
 - follow me on [Twitter](https://twitter.com/@Akashiutchiha)
 - [facebook](https://www.facebook.com/akashi.utchiha)
