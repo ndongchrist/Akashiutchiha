@@ -2,15 +2,14 @@
 ### I am passionate, self taught computer addict, who always aims at studying to polish my
 ### knowlegde and to match up with the newly advancing technologies.
 
-###  🔭 I’m currently working on a Mobile App
+###  🔭 I’m aiming at becoming an expert in manipulating python libraries like [facebook](https://www.facebook.com/akashi.utchiha)P
+###     "OpenCV", "NumPy", "Django", "Flask", "Selenium" etc...
 ###  🌱 I’m currently learning .Python,Flutter,Dart,Kotlin
-- I'am Akashi
-- [Github](https://github.com/Akashiutchiha)
+- I'am Ndongmo Christian  
+- follow me on [Twitter](https://twitter.com/@Akashiutchiha)
 - [facebook](https://www.facebook.com/akashi.utchiha)
-- [Twitter](https://twitter.com/@Akashiutchiha)
 - [LinkedIn](https://www.linkedin.com/in/ndongmo-christian-4a5537226/)
 - Best Picture
-
   ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37Sdg4Qbbdr6WIrtMIbcNrAIS1nkg1E_eckQdZfBONjhj1xhc)
 
 
