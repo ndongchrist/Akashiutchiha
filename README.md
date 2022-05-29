@@ -2,7 +2,7 @@
 ### I am passionate, self taught computer addict, who always aims at studying to polish my
 ### knowlegde and to match up with the newly advancing technologies.
 
-###  🔭 I’m aiming at becoming an expert in manipulating python libraries like [facebook](https://www.facebook.com/akashi.utchiha)P
+###  🔭 I’m aiming at becoming an expert in manipulating python libraries like 
 ###     `OpenCV`, `NumPy`, `Django`, `Flask`, `Selenium` etc...
 ###  🌱 I’m currently learning .`Python`,`Flutter`,`Dart`,`Django` and `JavaScript`
 - I'am Ndongmo Christian  
