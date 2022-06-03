@@ -9,8 +9,13 @@
 - follow me on [Twitter](https://twitter.com/@Akashiutchiha)
 - [facebook](https://www.facebook.com/akashi.utchiha)
 - [LinkedIn](https://www.linkedin.com/in/ndongmo-christian-4a5537226/)
-- Best Picture
-  ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37Sdg4Qbbdr6WIrtMIbcNrAIS1nkg1E_eckQdZfBONjhj1xhc)
+---
+# Grade my activity😄
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+
 
 
 
