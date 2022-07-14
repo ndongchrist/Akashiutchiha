@@ -1,6 +1,6 @@
 ![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
 
-### **Hi there 👋, Am Christian**
+### **Hi there 👋, I'm Christian**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4BF722&lines=Welcome+to+my+Github+Profile%2C;I+am+a+certified+Python+Developer;with+over+2+years+of+experience.;My+interests+and+Work+experiences+are+mostly;concern+with+Flutter%2FDart%2C;Python+Computing%2C;Data+Extraction%2C;Machine+Learning.;I+enjoy+learning+by+building+projects%2C;and+Most+Importanly;i+love+Contributing+to+open+source.;Currently+Learning...;Flutter%2FDart%2C+Pattern;Recognition+with+Python%2C;React+and+Django.)](https://git.io/typing-svg)
 
