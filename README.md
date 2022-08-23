@@ -2,7 +2,7 @@
 
 ### **Hi there 👋, I'm Christian**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4BF722&lines=Welcome+to+my+Github+Profile%2C;I+am+a+certified+Python+Developer;with+over+2+years+of+experience.;My+interests+and+Work+experiences+are+mostly;concern+with+Flutter%2FDart%2C;Python+Computing%2C;Data+Extraction%2C;Machine+Learning.;I+enjoy+learning+by+building+projects%2C;and+Most+Importanly;i+love+Contributing+to+open+source.;Currently+Learning...;Flutter%2FDart%2C+Pattern;Recognition+with+Python%2C;React+and+Django.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4BF722&lines=Welcome+to+my+Github+Profile%2C;I+am+a+certified+Python+Developer;with+over+2+years+of+experience.;My+interests+and+Work+experiences+are+mostly;concern+with+Flutter%2FDart%2C;Python+Computing%2C;Data+Extraction%2C;Machine+Learning.;I+enjoy+learning+by+building+projects%2C;and+Most+Importantly;i+love+Contributing+to+open+source.;Currently+Learning...;Flutter%2FDart%2C+Pattern;Recognition+with+Python%2C;React+and+Django.)](https://git.io/typing-svg)
 
 ### I'm a passionate, self taught computer addict, who always aims at studying to polish my
 ### knowlegde and to match up with the newly advancing technologies.
