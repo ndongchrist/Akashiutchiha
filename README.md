@@ -12,6 +12,9 @@
 ---
 [![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashiutchiha)](https://github.com/Akashiutchiha/github-readme-stats)
 [![Christian's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Akashiutchiha&theme=blue-green)](https://github.com/Akashiutchiha/github-readme-streak-stats)
+Some of my Hacktoberfest Badges😄😄
+[![@ndongchrist's Holopin board](https://holopin.me/ndongchrist)](https://holopin.io/@ndongchrist)
+
 
 
 
