@@ -10,10 +10,8 @@
 
 - follow me on [Twitter](https://twitter.com/@Akashiutchiha), [facebook](https://www.facebook.com/akashi.utchiha),[LinkedIn](https://www.linkedin.com/in/ndongmo-christian-4a5537226/)
 ---
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashiutchiha)](https://github.com/Akashiutchiha/github-readme-stats)
+[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndongchrist)](https://github.com/Akashiutchiha/github-readme-stats)
 ---
-[![Christian's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Akashiutchiha&theme=blue-green)](https://github.com/Akashiutchiha/github-readme-streak-stats)
-
 
 
 
